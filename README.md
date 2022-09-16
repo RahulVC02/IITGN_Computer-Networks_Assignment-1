@@ -18,4 +18,4 @@ The zip file contains five folders -
  5)WrittenQuestions_CN - contains written answers to questions 2, 3 and 4.
  
  To execute and compile the code, open two command prompt windows for running SERVER.py and CLIENT.py. Then run the 5 commands in the encryption mode 0, 1 or 2
- and observe the responses and changes in the directories on uploading/downloading.
+ and observe the responses and changes in the directories on uploading/downloading. Remember to update the HOST IP Address to that of the machine that is running the code. Do this is utilities.py for client and server. Do this for SERVER.py and CLIENT.py as well.
